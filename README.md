@@ -1,1 +1,1 @@
-# producttype-catalogus
+# producttypecatalogus
