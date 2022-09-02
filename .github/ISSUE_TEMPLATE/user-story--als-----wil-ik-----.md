@@ -1,7 +1,7 @@
 ---
 name: 'User story: Als ... wil ik ....'
 about: Beschrijving van een functionele wens voor toepassing van producttypen
-title: Als
+title: Als [vul aan]
 labels: user story
 assignees: ''
 
