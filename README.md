@@ -4,8 +4,8 @@
 
 Zowel gemeenten als de VNG zijn ervan overtuigd dat producten en diensten die gemeenten leveren een belangrijke plaats innemen binnen de gemeentelijke informatievoorziening. Allereerst omdat gemeenten daarover met inwoners en ondernemers communiceren. Zij nemen immers ‘producten’ bij de gemeente af en niet bijvoorbeeld ‘zaken’. Maar ook omdat kenmerken van het te leveren product bepalen of zouden kunnen bepalen hoe het leveringsproces en verantwoording daarover eruit ziet. Denk hierbij aan (wettelijke) behandeltermijnen, grondslagen en machtigingen.
 
-![Voorgestelde samenhang tussen producttypen, UPL, ZTC, administratieve-handelingen en verwerkingenregister](./docs/assets/samenhang-producttypen-UPL-ZTC-administratieve-handelingen-verwerkingenregister.png){:height="100%" width="100%"}<br>
-*Figuur 1 - Voorsgestelde samenhang tussen producttypen (beschikbaar in een Producten- en dienstencatalogus), de Universele Productnamenlijst (UPL), Zaaktypecatalogus (ZTC), Administratieve-handelingen en het Verwerkingenregister.
+![Voorgestelde samenhang tussen producttypen, UPL, ZTC, administratieve-handelingen en verwerkingenregister](./docs/assets/samenhang-producttypen-UPL-ZTC-administratieve-handelingen-verwerkingenregister.png)<br>
+*Figuur 1 - Voorsgestelde samenhang tussen producttypen (beschikbaar in een Producten- en dienstencatalogus), de Universele Productnamenlijst (UPL), Zaaktypecatalogus (ZTC), Administratieve-handelingen en het Verwerkingenregister.*
 
 Sinds een aantal jaren wordt op een aantal fronten gewerkt aan (verdergaande) standaardisatie van (gemeentelijke) producten en diensten. Dit betreft zowel de ‘inhoud’ (naamgeving, beschrijving etc.) als de vorm die wordt gevolgd voor vastlegging daarvan (welke kenmerken van producten registreren we volgens welke structuur). Een selectie:
 - Vanuit het BZK-programma ‘machtigen’ wordt gekeken naar aanpassing en uitbreiding van de Universele Productnamenlijst (UPL).
@@ -18,7 +18,7 @@ Andere gemeenten zijn bezig te onderzoeken hoe ze producten kunnen gebruiken voo
 
 ## 'Producttypen' en concrete producten
 
-Naar aanleiding van het bovenstaande is het belangrijk een onderscheid te maken dat we in de GEMMA-referentiearchitectuur niet kennen. In die architectuur kennen we het bedrijfsobject ['product/dienst']{https://www.gemmaonline.nl/index.php/GEMMA2/0.9/id-df3013b1-70bc-11e4-67ab-0050568a6153} dat is gedefinieerd als "een tastbaar goed of verzameling activiteiten die door de gemeente geleverd kunnen worden". Kijken we echter naar het doel van de hierboven beschreven ontwikkeltrajecten, dan hebben die eigenlijk betrekking op iets wat we 'producttypen' (dit is een werkaanduiding) zouden kunnen noemen. Zo'n producttype bestaat in de context van een producten- (en diensten)catalogus en moet gezien worden als een beschrijving van een product, waaruit duidelijk wordt onder welke voorwoorden een exemplaar van dat product aan een inwoner of ondernemer geleverd kan worden. Hierbij horen kenmerken als wettelijke (lever)termijnen, kosten en grondslagen. Concrete producten zijn daadwerkelijk aan een inwoner of ondernemer geleverde producten.
+Naar aanleiding van het bovenstaande is het belangrijk een onderscheid te maken dat we in de GEMMA-referentiearchitectuur niet kennen. In die architectuur kennen we het bedrijfsobject ['product/dienst'](https://www.gemmaonline.nl/index.php/GEMMA2/0.9/id-df3013b1-70bc-11e4-67ab-0050568a6153) dat is gedefinieerd als "een tastbaar goed of verzameling activiteiten die door de gemeente geleverd kunnen worden". Kijken we echter naar het doel van de hierboven beschreven ontwikkeltrajecten, dan hebben die eigenlijk betrekking op iets wat we 'producttypen' (dit is een werkaanduiding) zouden kunnen noemen. Zo'n producttype bestaat in de context van een producten- (en diensten)catalogus en moet gezien worden als een beschrijving van een product, waaruit duidelijk wordt onder welke voorwoorden een exemplaar van dat product aan een inwoner of ondernemer geleverd kan worden. Hierbij horen kenmerken als wettelijke (lever)termijnen, kosten en grondslagen. Concrete producten zijn daadwerkelijk aan een inwoner of ondernemer geleverde producten.
 
 Tegenover producttypen staan concrete producten (ook een werkaanduiding): de exemplaren van een product van een bepaald producttype die in concrete gevallen aan inwoners en ondernemers geleverd worden of zijn. Bij concrete producten horen kenmerken als een verloopdatum (in geval van een paspoort of rijbewijs), een periode (in geval van een ontheffing) of een bedrag (bij een verstrekte subsidie).
 
@@ -41,10 +41,12 @@ Om te komen tot het hierboven beschreven kernmodel worden de volgende activiteit
 ## Hoe kan ik bijdragen?
 
 Bij het uitvoeren van bovengenoemde activiteiten hebben we hulp nodig van gemeenten en andere betrokkenen. Bijdragen kan op verschillende manieren:
-1. Het indienen van een [user story]{https://github.com/VNG-Realisatie/producttypecatalogus/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=Als+%5Bvul+aan%5D} die een functioneel beschreven (beoogde) toepassing van producttypen beschrijft.
-2. Hierboven is reeds een aantal bestaande modellen genoemd waarnaar we tijdens het bepalen van het 'kernmodel' willen kijken. Waarschijnlijk is dit overzicht echter niet compleet. Andere voorbeelden van binnen of buiten gemeenten gebruikte modellen voor het beschrijven van product(type)informatie zijn daarom van harte welkom. Deze kunnen worden (met link of bijlage) als [voorbeeld]{https://github.com/VNG-Realisatie/klantinteracties/issues/templates/edit} in deze Github-omgeving worden ingediend.
+1. Het indienen van een [user story](https://github.com/VNG-Realisatie/producttypecatalogus/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=Als+%5Bvul+aan%5D) die een functioneel beschreven (beoogde) toepassing van producttypen beschrijft.
+2. Hierboven is reeds een aantal bestaande modellen genoemd waarnaar we tijdens het bepalen van het 'kernmodel' willen kijken. Waarschijnlijk is dit overzicht echter niet compleet. Andere voorbeelden van binnen of buiten gemeenten gebruikte modellen voor het beschrijven van product(type)informatie zijn daarom van harte welkom. Deze kunnen worden (met link of bijlage) als [voorbeeld](https://github.com/VNG-Realisatie/producttypecatalogus/issues/new?assignees=&labels=&template=voorbeeldmodel-product-typ-en.md&title=) in deze Github-omgeving worden ingediend.
 
 ## Documentatie
+
+Documentatie over inhoud en proces bij dit project is te vinden in [De docs-map van deze omgeving](./docs).
 
 ## Andere vragen of opmerkingen?
 
