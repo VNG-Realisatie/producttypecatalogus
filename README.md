@@ -35,7 +35,7 @@ We hoeven bij de ontwikkeling van het kernmodel niet bij nul te beginnen. Eind 2
 ## Wat gaan we doen?
 
 Om te komen tot het hierboven beschreven kernmodel worden de volgende activiteiten uitgevoerd:
-1. Analyse van bestaande modellen (CimPDC, OpenPDC gemeente Buren, Resultaten opdracht Dimpact) en gebruikswensen van gemeenten en leveranciers;
+1. Analyse van bestaande modellen (CimPDC, OpenPDC gemeente Buren, resultaten opdracht Dimpact) en gebruikswensen van gemeenten en leveranciers;
 2. Check op aansluiting van genoemde modellen bij internationale standaarden (met name het Europese ‘Core Public Service Vocabulary Application Profile’);
 3. Afstemming concepten met betrokken gemeenten en leveranciers, en
 4. Publicatie van 1.0-versie ‘kernmodel’ Gemeentelijke PDC, inclusief beschrijving van hoe extensies aan de kern gerealteerd kunnen worden en een beperkt aantal architectuuruitwerkingen die de toepassing illustreren.
@@ -50,7 +50,7 @@ Bij het uitvoeren van bovengenoemde activiteiten hebben we hulp nodig van gemeen
 
 Documentatie over inhoud en proces bij dit project is te vinden in [De docs-map van deze omgeving](./docs).
 
-*[to do: uploaden van en invoegen verwijzingen naar CimPDC, OpenPDC gemeente Buren, Resultaten opdracht Dimpact]*
+*[to do: verzamelen, uploaden van en invoegen verwijzingen naar CimPDC, OpenPDC gemeente Buren, resultaten opdracht Dimpact]*
 
 ## Andere vragen of opmerkingen?
 
