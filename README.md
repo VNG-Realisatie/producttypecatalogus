@@ -50,7 +50,7 @@ Bij het uitvoeren van bovengenoemde activiteiten hebben we hulp nodig van gemeen
 
 Documentatie over inhoud en proces bij dit project is te vinden in [De docs-map van deze omgeving](./docs).
 
-*[todo: uploaden van en invoegen verwijzingen naar CimPDC, OpenPDC gemeente Buren, Resultaten opdracht Dimpact]*
+*[to do: uploaden van en invoegen verwijzingen naar CimPDC, OpenPDC gemeente Buren, Resultaten opdracht Dimpact]*
 
 ## Andere vragen of opmerkingen?
 
