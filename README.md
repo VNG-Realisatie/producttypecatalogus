@@ -22,7 +22,7 @@ Naar aanleiding van het bovenstaande is het belangrijk een onderscheid te maken 
 
 Tegenover producttypen staan concrete producten (ook een werkaanduiding): de exemplaren van een product van een bepaald producttype die in concrete gevallen aan inwoners en ondernemers geleverd gaan worden of al geleverd zijn. Bij concrete producten horen bijvoorbeeld kenmerken als een verloopdatum (in geval van een uitgegeven paspoort of rijbewijs), een periode (bij een verleende ontheffing) of een bedrag (horend bij een verstrekte subsidie).
 
-Zoals uit de naam al blijkt zijn deze repository en de hieronder beschreven activiteiten gericht op het beschrijven van producttypen. Concrete producten zullen worden bekeken voor zover eventuele relaties met producttypen daarom vragen, maar vormen nadrukkelijk geen primair aandachtsgebied van deze repository, noch van de uit te voeren activiteiten.
+Zoals uit de naam al blijkt, zijn deze repository en de hieronder beschreven activiteiten gericht op het beschrijven van producttypen. Concrete producten zullen worden bekeken voor zover eventuele relaties met producttypen daarom vragen, maar vormen nadrukkelijk geen primair aandachtsgebied van deze repository, noch van de uit te voeren activiteiten.
 
 ## 'Kernmodel Producttypen'
 
