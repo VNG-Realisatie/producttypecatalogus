@@ -30,7 +30,7 @@ Naar aanleiding van deze ontwikkelingen is aan de VNG gevraagd een informatiemod
 
 Het kernmodel model omvat die objecten, kenmerken en relaties die VNG en gemeenten beschouwen als ‘in ieder geval noodzakelijk’ binnen een gemeentelijke PDC. Daarbij laten we de mogelijkheid open dit ‘kernmodel’ later uit te breiden. Dit model bieden we gemeenten zonder verplichting tot gebruik ter referentie aan – we stellen het dus niet formeel vast. Wel hebben we hierbij de intentie dat dit model ‘klopt’. Een (beperkte) analyse van bestaande modellen en gemeentelijke behoeften moet dit waarborgen.
 
-We hoeven bij de ontwikkeling van het kernmodel niet bij nul te beginnen. Eind 2021 is (naar aanleiding van de afstemming tussen Omgevingswet en SDG) een 0.7-versie van het CimPDC opgeleverd. Dit CimPDC dient als uitgangspunt voor het ‘kernmodel Producttypecatalogus’.
+We hoeven bij de ontwikkeling van het kernmodel niet bij nul te beginnen. Eind 2021 is (naar aanleiding van de afstemming tussen Omgevingswet en SDG) een [0.7-versie van het CimPDC](./docs/assets/CimPDCv0_7.pdf) opgeleverd. Dit CimPDC dient als uitgangspunt voor het ‘kernmodel Producttypecatalogus’.
 
 ## Wat gaan we doen?
 
